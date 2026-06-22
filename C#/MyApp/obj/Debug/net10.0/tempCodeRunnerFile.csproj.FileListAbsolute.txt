@@ -1,0 +1,15 @@
+c:\Users\itsme\OneDrive\Desktop\Backend\C#\MyApp\bin\Debug\net10.0\tempCodeRunnerFile.exe
+c:\Users\itsme\OneDrive\Desktop\Backend\C#\MyApp\bin\Debug\net10.0\tempCodeRunnerFile.deps.json
+c:\Users\itsme\OneDrive\Desktop\Backend\C#\MyApp\bin\Debug\net10.0\tempCodeRunnerFile.runtimeconfig.json
+c:\Users\itsme\OneDrive\Desktop\Backend\C#\MyApp\bin\Debug\net10.0\tempCodeRunnerFile.dll
+c:\Users\itsme\OneDrive\Desktop\Backend\C#\MyApp\bin\Debug\net10.0\tempCodeRunnerFile.pdb
+c:\Users\itsme\OneDrive\Desktop\Backend\C#\MyApp\obj\Debug\net10.0\tempCodeRunnerFile.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\itsme\OneDrive\Desktop\Backend\C#\MyApp\obj\Debug\net10.0\tempCodeRunnerFile.AssemblyInfoInputs.cache
+c:\Users\itsme\OneDrive\Desktop\Backend\C#\MyApp\obj\Debug\net10.0\tempCodeRunnerFile.AssemblyInfo.cs
+c:\Users\itsme\OneDrive\Desktop\Backend\C#\MyApp\obj\Debug\net10.0\tempCodeRunnerFile.csproj.CoreCompileInputs.cache
+c:\Users\itsme\OneDrive\Desktop\Backend\C#\MyApp\obj\Debug\net10.0\tempCodeRunnerFile.sourcelink.json
+c:\Users\itsme\OneDrive\Desktop\Backend\C#\MyApp\obj\Debug\net10.0\tempCodeRunnerFile.dll
+c:\Users\itsme\OneDrive\Desktop\Backend\C#\MyApp\obj\Debug\net10.0\refint\tempCodeRunnerFile.dll
+c:\Users\itsme\OneDrive\Desktop\Backend\C#\MyApp\obj\Debug\net10.0\tempCodeRunnerFile.pdb
+c:\Users\itsme\OneDrive\Desktop\Backend\C#\MyApp\obj\Debug\net10.0\tempCodeRunnerFile.genruntimeconfig.cache
+c:\Users\itsme\OneDrive\Desktop\Backend\C#\MyApp\obj\Debug\net10.0\ref\tempCodeRunnerFile.dll

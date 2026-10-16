@@ -33,3 +33,28 @@ def get_student(student_id: int):
             return student
 
     return {"message": "Student not Found "}
+
+
+@app.delete("/student/{student_id}")
+def delete_student(student_id: int):
+    for student in students:
+        if student.id == student_id:
+            students.remove(student)
+
+            return {"Message": "Student Deleted Successfully", "Student": student}
+
+    return {"message": "Student not Found"}
+
+
+@app.put("/student/{student_id}")
+def update_student(student_id: int, updated_student: Student):
+    for i in range(len(students)):
+        if students[i].id == student_id:
+            students[i] = updated_student
+
+            return {
+                "Message": "Student Updated Successfully",
+                "Student": updated_student,
+            }
+
+    return {"message": "Student not Found"}
